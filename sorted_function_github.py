@@ -19,10 +19,10 @@ print(sorted(test_tuple))
 # Tuples can be used as keys if they contain only strings, numbers, or tuples; if a tuple contains any mutable object either directly or indirectly, it cannot be used as a key. 
 # You can’t use lists as keys, since lists can be modified in place using index assignments, slice assignments, or methods like append() and extend().
 # Quote from https://docs.python.org/3/tutorial/datastructures.html#dictionaries. For form information please visit the web site.
-test_dictionary = [{"city": "Python City", "citizien": 126897},{"city": "C# City", "citizien": 98219} 
-,{"city": "Flutter City", "citizien": 6995}]
+test_dictionary = [{"city": "Python City", "citizen": 126897},{"city": "C# City", "citizen": 98219} 
+,{"city": "Flutter City", "citizen": 6995}]
 
-print(sorted(test_dictionary , key= lambda x:x["citizien"]))
+print(sorted(test_dictionary , key= lambda x:x["citizen"]))
 
 
 #PYTHON DATA STRUCTURES PAGE YOU CAN REACH ALL ADVANCED DATA TYPE FROM THIS LINK
