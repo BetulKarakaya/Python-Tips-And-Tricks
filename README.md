@@ -5,6 +5,7 @@
 
 | Topics     | Links     | Level
 | ------------- | ------------- | --------    |
+| `Lambda`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/lambda_github.py| `All Levels`   |
 | `Variables`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
 | `For Loop`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
 | `Function`        |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/first_class_function_github.py        | `Advanced`   |
