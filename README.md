@@ -14,6 +14,7 @@
 |`Heap`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/heap_github.py | `Intermediate`   |
 |`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sorted_function_github.py | `Beginner`  |
 |`Useful Function - insort from bisect library `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sort_with_bisect_github.py | `Beginner`  |
+|`is or ==  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_between_%20%3D%3D_and%20_is_github.py | `Intermediate`  |
 
 
 
