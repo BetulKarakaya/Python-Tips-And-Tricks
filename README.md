@@ -6,15 +6,17 @@
 | Topics     | Links     | Level
 | ------------- | ------------- | --------    |
 | `Lambda`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/lambda_github.py| `All Levels`   |
-| `Variables`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
 | `For Loop`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
+|`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sorted_function_github.py | `Beginner`  |
+|`Useful Function - insort from bisect library `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sort_with_bisect_github.py | `Beginner`  |
+|`Memory Usage Check`         |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memory_usage_check_github.py | `Beginner`  |
+| `Variables`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
+|`is or ==  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_between_%20%3D%3D_and%20_is_github.py | `Intermediate`  |
+|`Heap`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/heap_github.py | `Intermediate`   |
 | `Function`        |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/first_class_function_github.py        | `Advanced`   |
 | `Function`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/closures_github.py | `Advanced`   |
 | `Memoization`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memoization_github.py | `Advanced`   |
-|`Heap`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/heap_github.py | `Intermediate`   |
-|`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sorted_function_github.py | `Beginner`  |
-|`Useful Function - insort from bisect library `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sort_with_bisect_github.py | `Beginner`  |
-|`is or ==  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_between_%20%3D%3D_and%20_is_github.py | `Intermediate`  |
+
 
 
 
