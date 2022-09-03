@@ -7,7 +7,8 @@
 | ------------- | ------------- | --------    |
 | `Lambda`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/lambda_github.py| `All Levels`   |
 | `For Loop`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
-|`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sorted_function_github.py | `Beginner`  |
+| `Difference of sort() and sorted()`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
+|`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_of%20_sort_and_sorted_github.py | `Beginner`  |
 |`Useful Function - insort from bisect library `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sort_with_bisect_github.py | `Beginner`  |
 |`Memory Usage Check`         |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memory_usage_check_github.py | `Beginner`  |
 | `Variables`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
