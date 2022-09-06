@@ -1,7 +1,4 @@
 
-#"Enumerate() method adds a counter to an iterable and returns it in a form of enumerating object." - https://www.geeksforgeeks.org/enumerate-in-python/
-
-
 fruits = ["apple","banana","cherry","strawberry","pineapple"]
 
 
