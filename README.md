@@ -7,6 +7,7 @@
 | ------------- | ------------- | --------    |
 | `Lambda`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/lambda_github.py| `All Levels`   |
 | `For Loop`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
+| `Reversing Lists And Strings`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/slicing_list_github.py  | `Beginner`   |
 | `Difference of sort() and sorted()`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
 |`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_of%20_sort_and_sorted_github.py | `Beginner`  |
 |`Useful Function - insort from bisect library `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sort_with_bisect_github.py | `Beginner`  |
