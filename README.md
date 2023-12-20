@@ -12,6 +12,7 @@
 |`Useful Function - sorted() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_of%20_sort_and_sorted_github.py | `Beginner`  |
 |`Useful Function - insort from bisect library `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/sort_with_bisect_github.py | `Beginner`  |
 |`Useful Function - enumerate() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/enumerate_github.py | `Beginner`  |
+|`Useful Function - join() `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/join_func_github.py | `Beginner`  |
 |`Memory Usage Check`         |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memory_usage_check_github.py | `Beginner`  |
 | `Variables`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
 |`is or ==  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_between_%20%3D%3D_and%20_is_github.py | `Intermediate`  |
