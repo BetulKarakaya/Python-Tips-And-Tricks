@@ -22,6 +22,8 @@
 | `Function`        |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/first_class_function_github.py        | `Advanced`   |
 | `Function`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/closures_github.py | `Advanced`   |
 | `Memoization`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memoization_github.py | `Advanced`   |
+| `Effective Use Of Memory`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/generators_github.py | `Advanced`   |
+
 
 
 
