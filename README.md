@@ -17,6 +17,7 @@
 |`Memory Usage Check`         |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memory_usage_check_github.py | `Beginner`  |
 | `Variables`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
 |`is or ==  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/difference_between_%20%3D%3D_and%20_is_github.py | `Intermediate`  |
+|`Merging Dictionaries  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/merge_dictionaries_github.py | `Intermediate`  |
 |`Heap`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/heap_github.py | `Intermediate`   |
 |`Flatten a list  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/flatten_a_list_github.py | `Intermediate`  |
 | `Function`        |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/first_class_function_github.py        | `Advanced`   |
