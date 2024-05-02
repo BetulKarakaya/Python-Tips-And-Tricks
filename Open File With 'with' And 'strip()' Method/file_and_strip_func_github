@@ -1,0 +1,17 @@
+# Description for 'with' keyword: 
+# In Python, the 'with' keyword is used to wrap the execution of a block of code with methods defined by a context manager.
+# It ensures that the resource is properly managed, and it automatically closes the file when the block of code is exited.
+# This is particularly useful for file handling, where it helps in preventing resource leaks and writing cleaner code.
+
+# Description for 'strip()' function:
+# The strip() method in Python is used to remove leading and trailing characters from a string. 
+# By default, it removes whitespace characters such as spaces, tabs, and newlines, but you can also specify other characters to be removed.
+# It's commonly used to clean up input data or to remove unnecessary whitespace from strings.
+
+# Example code to read lines from a file and print them to the console using 'with' keyword and 'strip()' function:
+
+with open("file.txt", "r") as file:
+    for line in file:
+        print(len(line))
+        print(len(line.strip())) 
+        # strip() method is used here to remove leading and trailing whitespace from each line before printing
