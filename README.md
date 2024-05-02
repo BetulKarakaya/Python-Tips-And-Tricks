@@ -20,6 +20,7 @@
 |`Merging Dictionaries  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/merge_dictionaries_github.py | `Intermediate`  |
 |`Heap`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/heap_github.py | `Intermediate`   |
 |`Flatten a list  `         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/flatten_a_list_github.py | `Intermediate`  |
+|`File Operations  `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/tree/main/Open%20File%20With%20'with'%20And%20'strip()'%20Method | `Intermediate`  |
 | `Function`        |https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/first_class_function_github.py        | `Advanced`   |
 | `Function`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/closures_github.py | `Advanced`   |
 | `Memoization`         | https://github.com/programmewithkarsan/Python-Tips-And-Tricks/blob/main/memoization_github.py | `Advanced`   |
