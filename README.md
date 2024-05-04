@@ -32,8 +32,12 @@ The code provided here demonstrates the usage of the exec() function in Python f
 | `Effective Use Of Memory`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/generators_github.py | `Advanced`   |
 |`Useful Function - exec()  `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/exec.py | `Advanced`  |
 
+## Additional Resources
 
+For more detailed information and resources on the topics covered in this repository, consider referring to the following sources:
+- [Python 3.10.2 Documentation - Built-in Functions](https://docs.python.org/3/library/functions.html): Official documentation page for built-in functions in Python 3.10.2.
 
+- [Python Documentation](https://docs.python.org/): Official Python documentation homepage for accessing additional resources and information.
 
 
 
