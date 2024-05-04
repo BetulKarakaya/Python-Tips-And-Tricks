@@ -1,3 +1,7 @@
+# Disclaimer:
+
+The code provided here demonstrates the usage of the exec() function in Python for educational purposes only. By providing this code, no responsibility or liability is assumed for any consequences arising from its use. The user is solely responsible for understanding the risks associated with executing dynamic code and should exercise caution when running code provided by others.
+
 # Python-Tips-And-Tricks
 
 ## Summary
@@ -26,6 +30,8 @@
 | `Function`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/closures_github.py | `Advanced`   |
 | `Memoization`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/memoization_github.py | `Advanced`   |
 | `Effective Use Of Memory`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/generators_github.py | `Advanced`   |
+|`Useful Function - exec()  `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/exec.py | `Advanced`  |
+
 
 
 
