@@ -18,6 +18,7 @@ The code provided here demonstrates the usage of the exec() function in Python f
 |`Useful Function - enumerate() `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/enumerate_github.py | `Beginner`  |
 |`Useful Function - join() `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/join_func_github.py | `Beginner`  |
 |`Useful Function - set() `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/set_func_github.py | `Beginner`  |
+|`Useful Function - frozenset() `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/frozenset_github.py | `Beginner`  |
 |`Useful Function - zip()  `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/zip_func_github.py| `Beginner`  |
 |`Memory Usage Check`         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/memory_usage_check_github.py | `Intermediate`  |
 | `Variables`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
