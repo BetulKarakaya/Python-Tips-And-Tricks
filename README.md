@@ -21,6 +21,7 @@ The code provided here demonstrates the usage of the exec() function in Python f
 |`Useful Function - frozenset() `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/frozenset_github.py | `Beginner`  |
 |`Useful Function - zip()  `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/zip_func_github.py| `Beginner`  |
 |`Useful Function - bin()  `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/bin_func_github.py| `Beginner`  |
+|`Useful Function - min()  `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/min_func_github.py| `Beginner`  |
 |`Memory Usage Check`         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/memory_usage_check_github.py | `Intermediate`  |
 | `Variables`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/mutable-immutable_github.py | `Intermediate`   |
 |`is or ==  `         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/difference_between_%20%3D%3D_and%20_is_github.py | `Intermediate`  |
