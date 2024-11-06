@@ -11,6 +11,7 @@ The code provided here demonstrates the usage of the exec() function in Python f
 | ------------- | ------------- | --------    |
 | `Lambda`         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/lambda_github.py | `All Levels`   |
 | `String Functions - strip()`         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/strip_func_github.py | `All Levels`   |
+| `String Functions - isalpha() / isdigit() / isalnum() `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/isalpha_isdigit_github.py | `All Levels`   |
 | `For Loop`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
 | `Reversing Lists And Strings`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/slicing_list_github.py  | `Beginner`   |
 | `Difference of sort() and sorted()`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/difference_of%20_sort_and_sorted_github.py | `Beginner`   |
