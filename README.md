@@ -16,6 +16,7 @@ The code provided here demonstrates the usage of the exec() function in Python f
 | `String Functions - count() `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/count_github.py | `All Levels`   |
 | `String Functions - startswith() / endswith() `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/string_boundary_check_github.py | `All Levels`   |
 | `String Functions - replace() `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/replace_github.py | `All Levels`   |
+| `String Functions - find() / index() `         |https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/substring_locator_gihub.py | `All Levels`   |
 | `For Loop`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/for_else_loop_github.py | `Beginner`   |
 | `Reversing Lists And Strings`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/slicing_list_github.py  | `Beginner`   |
 | `Difference of sort() and sorted()`         | https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/difference_of%20_sort_and_sorted_github.py | `Beginner`   |
