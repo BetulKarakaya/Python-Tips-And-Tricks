@@ -96,6 +96,14 @@ The code provided here demonstrates the usage of the exec() function in Python f
 | ` Generators - send, next() and yield()`                  |     This code simulates a parking lot system using a Python generator. The parking_lot function uses yield to dynamically manage the parking spots, allowing cars to enter or exit in real-time while keeping track of the lot's state. It demonstrates how yield can pause and resume execution, making it perfect for scenarios like monitoring dynamic systems. The send() method enables communication with the generator, passing actions (like "enter" or "exit") to simulate real-world operations effectively.                 | [Vehicle Entry-Exit to the Parking Lot](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/vehicle_entry_exit_2_parking_lot_github.py)       | Advanced      |
 | `Pathlib`                  | This script organizes files in any given folder into categorized subfolders based on their file extensions. It utilizes the pathlib library for robust and clean path handling. By categorizing files into pre-defined subfolders (e.g., Documents, Images, Videos), it offers a practical and efficient way to keep any directory well-organized with minimal effort. Simply point the script to the desired folder, and it will handle the rest!                   | [File Organizer](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/file_organizer_github.py)       | Advanced      |
 
+| `os module, psutil module, datetime module`                  | This Python script logs the square root of the system's uptime along with the current date and time to a file. It uses the **psutil** library for cross-platform uptime calculation, ensuring compatibility with both Windows and Linux systems.               | [System Performance Log](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/log_system_performance_github.py
+)       | Advanced      |
+
+
+
+
+
+
 
 
 
