@@ -31,7 +31,9 @@ class ModelExplainer:
 
     def plot_summary(self):
         shap.initjs()
-        shap.summary_plot(self.shap_values, self.X_test)
+        shap.waterfall_plot(shap.Explanation(values=self.shap_values[0], 
+                                     base_values=self.explainer.expected_value, 
+                                     data=self.X_train.iloc[0]))
 
 
     def run(self):
