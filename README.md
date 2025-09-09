@@ -247,6 +247,8 @@ The code provided here demonstrates the usage of the exec() function in Python f
 | `Pathlib, PIL`                  | This script automatically organizes images into folders by their creation date.        | [Image Organizer](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/image_organizer_github.py)  | Advanced      |
 | `os module, psutil module, datetime module`                  | This Python script logs the square root of the system's uptime along with the current date and time to a file. It uses the **psutil** library for cross-platform uptime calculation, ensuring compatibility with both Windows and Linux systems.               | [System Performance Log](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/log_system_performance_github.py)       | Advanced      |
 | `Dynamic Programming`                  | This code demonstrates factorial calculation using dynamic programming with memoization, storing previously computed results to avoid redundant calculations. It improves efficiency by reusing values instead of recalculating them.   | [Factorial with Memoization Table](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/dynamic_programming_factorial_github.py)       | Advanced      |
+| `Dynamic Programming`                  | This code demonstrates two dynamic programming approaches for computing Fibonacci numbers: a top-down method with recursion and memoization, and a bottom-up iterative method for improved memory efficiency. | [Fibonacci Dynamic Programming](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/dynamic_programming_fibonacci_github.py)       | Advanced      |
+
 
 
 
