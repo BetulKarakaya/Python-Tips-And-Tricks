@@ -26,7 +26,6 @@ class Vector2D:
         mags = self.magnitude() * other.magnitude()
         cos_theta = dot / mags
         
-        # Numerical safety (bazı ekstrem floating point durumları için)
         cos_theta = max(-1, min(1, cos_theta))
 
         return math.degrees(math.acos(cos_theta))
