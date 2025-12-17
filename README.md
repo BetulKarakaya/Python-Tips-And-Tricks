@@ -303,6 +303,9 @@ The code provided here demonstrates the usage of the exec() function in Python f
 | `Dynamic Programming`                  | This code demonstrates factorial calculation using dynamic programming with memoization, storing previously computed results to avoid redundant calculations. It improves efficiency by reusing values instead of recalculating them.   | [Factorial with Memoization Table](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/dynamic_programming_factorial_github.py)       | Advanced      |
 | `Dynamic Programming`                  | This code demonstrates two dynamic programming approaches for computing Fibonacci numbers: a top-down method with recursion and memoization, and a bottom-up iterative method for improved memory efficiency. | [Fibonacci Dynamic Programming](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/dynamic_programming_fibonacci_github.py)       | Advanced      |
 | `Dynamic Programming`                  | This code uses dynamic programming (bottom-up tabulation) to solve the coin change problem. It finds the minimum number of coins needed to make a target amount, while also keeping track of which coins were used to reconstruct the final combination (e.g., 20 TL + 5 TL + 1 TL + 1 TL + 1 TL). | [Coin/Bill Solver](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/dynamic_programming_coin_github.py)       | Advanced  |
+| `Dynamic Programming`                  | This code uses dynamic programming to compute the Longest Increasing Subsequence by storing, for each index, the length of the longest increasing subsequence that ends at that position.| [Longest Increasing Subsequence (LIS)](https://github.com/BetulKarakaya/Python-Tips-And-Tricks/blob/main/lis_dynamic_programming_github.py)          | Advanced  |
+
+
 
 
 ## Additional Resources
