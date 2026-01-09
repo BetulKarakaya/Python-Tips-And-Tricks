@@ -2,7 +2,7 @@
 
 class MissingAndRepeatingFinder:
     def __init__(self, numbers):
-        self.numbers = numbers.copy()  # avoid modifying original list
+        self.numbers = numbers.copy() 
     
     def find_missing_repeating_number(self):
         n = len(self.numbers)
